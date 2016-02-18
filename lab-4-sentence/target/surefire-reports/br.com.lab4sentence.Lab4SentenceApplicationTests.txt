@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.lab4sentence.Lab4SentenceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.097 sec - in br.com.lab4sentence.Lab4SentenceApplicationTests
